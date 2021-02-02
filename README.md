@@ -1,4 +1,6 @@
-# Core 1 Interaction
+# Pages
+
+## Core 1 Interaction
 
 `<a href="https://tnsmw.github.io/core-int-pucd-2035/">core-int-pucd-2035</a>`
 
