@@ -1,28 +1,22 @@
 
-
-
 html {
   font-size: 1rem;
   font-family: 'Jura', sans-serif;
-  background-image: url(../img/antarctic-blue-whale.jpg);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
 }
 
 body {
   padding:5rem 0;
-  color:#fefefe;
+  color:#000;
 }
 
 a {
   text-decoration: underline;
-  color: #fefefe;
+  color: #2bd4c1;
 }
 
 a:hover {
   text-decoration: none;
-  color: #fefefe;
+  color: #2bd4c1;
 }
 
 main {
@@ -40,35 +34,21 @@ main {
 
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Jura', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   margin-bottom:1rem;
 }
 
 h1 {
-  font-size:4.5rem;
+  font-size:3.5rem;
   margin-bottom: 0;
 }
 
 h2 {
-  font-size:1.9rem;
-  font-family: 'Quicksand', sans-serif;
+  font-size:2.5rem;
 }
 
 h3 {
-  font-size:2.25rem;
-  font-weight:300;
-}
-
-h4 {
-  font-size:1.75rem;
-}
-
-
-li {
-  font-size: 1.5rem;
-  font-family: 'Quicksand', sans-serif;
-  line-height: 1.5;
-  padding: .5rem 0;
+  font-size:2rem;
 }
 
 p {
@@ -80,8 +60,4 @@ p {
 img {
   display: block;
   margin: 0 auto;
-}
-
-figure {
-  grid-column:1 / 2;
 }
