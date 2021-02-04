@@ -1,7 +1,7 @@
 
 html {
   font-size: 1rem;
-  font-family: 'Jura', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 
 body {
@@ -16,6 +16,9 @@ a {
 
 a:hover {
   text-decoration: none;
+}
+
+li {
   color: #2bd4c1;
 }
 
@@ -30,34 +33,14 @@ main {
 
 .block {
   grid-column:1 / 3;
+  font-size:1.5rem;
 }
 
-
 h1, h2, h3, h4, h5 {
-  font-family: 'Quicksand', sans-serif;
   margin-bottom:1rem;
 }
 
 h1 {
-  font-size:3.5rem;
+  font-size:3rem;
   margin-bottom: 0;
-}
-
-h2 {
-  font-size:2.5rem;
-}
-
-h3 {
-  font-size:2rem;
-}
-
-p {
-  font-size: 1.125rem;
-  line-height: 1.5;
-  font-family: 'Quicksand', sans-serif;
-}
-
-img {
-  display: block;
-  margin: 0 auto;
 }
