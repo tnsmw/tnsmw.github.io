@@ -22,7 +22,7 @@ a:hover {
 
 ul {
   display: block;
-  padding-inline-start: 0px;
+  padding: 0px;
 }
 
 main {
